@@ -7,7 +7,7 @@ Grey: #D9D3D0;
 */
 
 body {
-    background-color: #FFFFFF;
+    background-color: #f9f9f9;
     font-family: 'EB Garamond', sans-serif;
     color: #4D4D4D;
     padding-top:100px;
@@ -19,11 +19,11 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #F5F5F5;
+  background-color: #838383;
   text-align: center;
   padding-top: 10px;
   font-size: 10pt;
-  color: #919191;
+  color: #008080;
 }
 
 .center {
@@ -45,14 +45,14 @@ a {
     overflow: hidden;
     top: 0;
     width: 100%;
-    background-color: #F5F5F5;
-    color: #195073;
+    background-color: #838383;
+    color: #008080;
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: #195073;
+  color: #008080;
   text-align: center;
   padding: 3px 16px;
   text-decoration: none;
@@ -61,20 +61,20 @@ a {
 
 /* Change the color of links on hover */
 .topnav-right a:hover {
-  background-color: #A3BFD9;
-  color: #1C1C1C;
+  background-color: #009494;
+  color: #4d4d4d;
 }
 
 /* Add a color to the active/current link */
 .topnav-right a.active {
-  background-color: #71A8D9;
-  color: #FFFFFF;
+  background-color: #006c6c;
+  color: #ffffff;
 }
 
 /* Right-aligned section inside the top navigation */
 .topnav-right a {
   float: right;
-  color: #919191;
+  color: #008080;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -104,7 +104,7 @@ th, td {
 
 .research-title {
   font-size: 12pt;
-  color: #226D9C; /*195073;*/
+  color: #008080; /*195073;*/
 }
 
 .research-desc {
