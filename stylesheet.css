@@ -19,7 +19,7 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #838383;
+  background-color: #9d9d9d;
   text-align: center;
   padding-top: 10px;
   font-size: 10pt;
@@ -45,7 +45,7 @@ a {
     overflow: hidden;
     top: 0;
     width: 100%;
-    background-color: #838383;
+    background-color: #9d9d9d;
     color: #008080;
 }
 
