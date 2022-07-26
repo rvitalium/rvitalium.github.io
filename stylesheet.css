@@ -110,3 +110,7 @@ th, td {
 .research-desc {
   font-size: 12pt
 }
+
+.customIndent {
+  padding-left: 15em;
+}
